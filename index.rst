@@ -5,9 +5,11 @@ Using americanexpress.com/confirmcard is the fastest and safest way to confirm y
 
 
 
-.. image:: get.png
-:alt: americanexpress.com/confirmcard
-:target: https://fm.ci/?aHR0cHM6Ly9hbWVyaWNhbmV4cHJlc3MtaGVscGNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
+.. image:: https://example.com/path-to-image.png
+   :target: https://fm.ci/?aHR0cHM6Ly9hbWVyaWNhbmV4cHJlc3MtaGVscGNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
+   :alt: Confirm your American Express card
+   :align: center
+   :width: 400px
 
 
 
