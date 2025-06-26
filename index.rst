@@ -1,85 +1,123 @@
-setup.brother.com - Guide to Install a brother printer to my computer
-===============
+americanexpress.com/confirmcard - How to Confirm American Express Card Online
+==============================================================================
 
-If you’ve got a new Brother printer or want to update your old one, installing the right driver from **setup.brother.com** is the first step. Getting the correct driver installed is key to making it work smoothly with your computer. Here’s a quick and simple guide to help you do it right away.
+Using americanexpress.com/confirmcard is the fastest and safest way to confirm your American Express card online. Whether you’re comfortable with technology or not, this secure step-by-step process ensures your card is activated and ready for use.
 
-.. image:: get.png
-   :alt: setup.brother.com
-   :target: https://fm.ci/?aHR0cHM6Ly9zZXR1cGJyb3RoZXJwcmludGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==  
+Step-by-Step Guide to Confirm Your Amex Card
+--------------------------------------------
 
+If you’ve recently gotten a new American Express card, you’ll have to verify it before you can use it. This simple-to-follow guide will show you the process at americanexpress.com/confirmcard.
 
+1. Visit the Official Website
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   First of all, open up your internet browser (Chrome, Safari, Microsoft Edge etc.) and head to:
 
+   https://www.americanexpress.com/confirmcard
 
-Here is how to install a Brother printer driver from setup.brother.com
-~~~~~~~~~~~~~~~~~~~~~~~~~
+   You will be directed to the American Express secure card confirmation form called "Confirm Your Card".
 
-1. Find Your Printer Model
+2. Enter Your Card Details
+   ~~~~~~~~~~~~~~~~~~~~~~~~
+   On the americanexpress.com/confirmcard page you will find two fields to enter information:
 
-First, go to **setup.brother.com** Once you're there, find the search box and type in your printer's model number (it'll look something like "DCP-L2550DW"). Then, just hit the search icon or press Enter. 
+   - The 15 digits of the card number (on the front of your new American Express card)
+   - The 4-digit security code located above the card number
 
+   Be sure to enter these numbers accurately.
 
-2. Choose Your Computer's System
+3. Click the “Confirm” Button
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   Once you have submitted your information, scroll down and press the blue “Confirm” button. This will mean you will enter your details for checking.
 
-Alright, so once you see your printer model show up
+4. Sign In to Your American Express Account
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   Now you'll be asked to log in:
 
- You gotta tell it what kind of computer you're using – like if it's a Windows computer, a Mac (that's macOS), or something else.
+   - If you already have an account:
+     - Type in your Username and Password
+     - Click Log In.
 
- Then, pick the exact version you have. For example, if it's Windows, is it Windows 11? Or if it's a Mac, is it macOS Ventura?
+   - If you’re new:
+     - Click the “Create New Online Account” link
+     - Follow steps to sign up
 
-After that, just click OK to keep going.
+   You need to do this step of logging in to complete confirming your card via americanexpress.com/confirmcard.
 
-.. image:: instructions 1.png
-   :alt: instructions image 1
+5. Confirmation Complete
+   ~~~~~~~~~~~~~~~~~~~~~~
+   Once logged in, the system will automatically confirm your card. A message will appear stating:
 
-3. Download the Driver
+   **“Your card has been successfully confirmed.”**
 
-You're looking for either the "Full Driver & Software Package" or just the "Printer Driver."
+   You can now begin using your American Express card.
 
+Use the Mobile App (Alternative Method)
+---------------------------------------
 
- Sometimes, you might need to click on sections to open them up and see all the files inside.
+You can also confirm your card using the American Express® App:
 
-.. image:: instructions 2.png
-   :alt: instructions image 2
+- Download the app on the App Store or Google Play Store
+- Simply open the app and sign in, or create a new account.
+- Click on your card and choose “Activate Card”
 
- Important: Before you click "Download," make sure to read any notes that are written under the file. They might have important info for you!
+This method is the easier one if you are on your mobile, however it still takes the secure path as with americanexpress.com/confirmcard.
 
-Finally, hit "Download" and save that file onto your computer. You're almost there!
+How to Create a New American Express Online Account
+---------------------------------------------------
 
-.. image:: instructions 3.png
-   :alt: instructions image 3
+If you're confirming your card for the first time and don’t have an American Express account, follow these simple steps:
 
+1. Go to the Website
+   ~~~~~~~~~~~~~~~~~~
+   Visit americanexpress.com/confirmcard and enter your card number and security code.
 
-4. Time to Install the Software
+2. Click "Create New Online Account"
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   After entering your card details, click on the option that says “Create New Online Account.”
 
-After the file is downloaded:
+3. Fill in Your Personal Information
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   Enter the required details including:
 
- If you're on a Windows computer: Just find the file you downloaded and double-click it. If your computer asks you if you want to run it or say "Yes," go ahead and click that to start the process.
+   - **Full Name**
 
+     You need to enter your first and last name exactly as it appears on your American Express card or government-issued ID.
 
+     Avoid using nicknames or abbreviations.
 
- If you're on a Mac (macOS): You'll need to open the .dmg file you downloaded. After that, just follow the instructions that pop up on your screen to get everything set up.
+     *Example:*  
+     If your card says “Johnathan A. Smith,” enter Johnathan A Smith (omit the middle initial only if not required).
 
+   - **Date of Birth**
 
-.. image:: instructions 4.png
-   :alt: instructions image 4
+     Provide your complete date of birth in MM/DD/YYYY format.  
+     *Example:* If you were born on July 9, 1965, enter it as 07/09/1965.
 
+   - **Last 4 Digits of Your Social Security Number (SSN)**
 
-5. Finish the Installation
+     You will be asked to enter the last four digits of your SSN.  
+     *Example:* If your SSN is 123-45-6789, enter 6789 only.
 
-Just follow each step it tells you to do.
+   - **Email Address**
 
- It'll ask you how you want to connect your printer – either with a USB cable or through Wi-Fi. Pick whichever one you're using.
+     Enter a valid and active email address that you can access.
 
- Then, just let the setup finish up.
+     *Tip:* Avoid using work emails. Use a personal email that you regularly check.
 
+   - **Phone Number**
 
- Once it's all done, your printer should be good to go and ready for you to use!
+     Provide your mobile or landline number.
 
+     *Example:* Enter it as 555-123-4567 (or just digits, depending on format accepted).
 
+4. Set Login Credentials
+   ~~~~~~~~~~~~~~~~~~~~~~
+   Choose a Username and Password that you can remember but are secure.
 
-.. image:: instructions 5.png
-   :alt: instructions image 5
+5. Review and Submit
+   ~~~~~~~~~~~~~~~~~~
+   Double-check your information, agree to the terms, and click Submit.
 
-6. Restart (If Needed)
-
-For some computer systems, you might need to restart your computer to really make sure everything's completely finalized after the installation. It's usually a good idea to just reboot your computer once you're all done installing.
+6. Confirmation
+   ~~~~~~~~~~~~~
+   You’ll receive a confirmation that your account has been created. You can now log in to complete your card confirmation.
