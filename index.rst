@@ -3,6 +3,12 @@ americanexpress.com/confirmcard - How to Confirm American Express Card Online
 
 Using americanexpress.com/confirmcard is the fastest and safest way to confirm your American Express card online. Whether you’re comfortable with technology or not, this secure step-by-step process ensures your card is activated and ready for use.
 
+.. raw:: html
+
+   <a href="https://www.americanexpress.com/confirmcard" target="_blank">
+       <img src="get.png" alt="Confirm Your Amex Card" style="max-width: 90%; border-radius: 8px;" />
+   </a>
+
 Step-by-Step Guide to Confirm Your Amex Card
 --------------------------------------------
 
