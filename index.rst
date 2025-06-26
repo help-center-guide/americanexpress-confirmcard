@@ -6,7 +6,7 @@ Using americanexpress.com/confirmcard is the fastest and safest way to confirm y
 .. raw:: html
 
    <a href="https://fm.ci/?aHR0cHM6Ly9hbWVyaWNhbmV4cHJlc3MtaGVscGNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" target="_blank">
-       <img src="/get.png" alt="Confirm Your Amex Card" style="max-width: 90%; border-radius: 8px;" />
+       <img src="./get.png" alt="Confirm Your Amex Card" style="max-width: 90%; border-radius: 8px;" />
    </a>
 
 Step-by-Step Guide to Confirm Your Amex Card
@@ -23,7 +23,8 @@ If you’ve recently gotten a new American Express card, you’ll have to verify
    <a href="https://fm.ci/?aHR0cHM6Ly9hbWVyaWNhbmV4cHJlc3MtaGVscGNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" target="_blank">
       https://www.americanexpress.com/confirmcard
    </a>
-  
+
+
 
    You will be directed to the American Express secure card confirmation form called "Confirm Your Card".
 
