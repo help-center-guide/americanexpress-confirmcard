@@ -7,7 +7,7 @@ Using americanexpress.com/confirmcard is the fastest and safest way to confirm y
 
 .. image:: get-btn.png
    :alt: americanexpress.com/confirmcard
-   :target:  https://americanexpress-helpcenter.readthedocs.io/en/latest/
+   :target:  https://pre.im/?1Fg0AMvDMSyUJ6U2bRJv4HVzeF1l0XDET3vKEbgoReu9C0DOe0dap0L3LuleS6NQSDek2oB70gUcGwC4
    :align: center
 
 
